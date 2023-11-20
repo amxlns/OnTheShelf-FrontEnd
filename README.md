@@ -35,8 +35,8 @@ To set up the Inventory Management System, follow these steps:
 1. **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/yourusername/inventory-management-system.git
-   cd inventory-management-system
+   git clone https://github.com/yourusername/OnTheShelf-FrontEnd.git
+   cd OnTheShelf-FrontEnd
 
 2. **Install Dependencies:**
     npm install
